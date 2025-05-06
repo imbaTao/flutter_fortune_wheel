@@ -71,7 +71,7 @@ class _FortuneBarItem extends StatelessWidget {
               width: style.borderWidth / 4,
             ),
           ),
-          color: style.color,
+          color: Colors.transparent,
         ),
         child: Center(
           child: DefaultTextStyle(
